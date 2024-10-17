@@ -6,6 +6,7 @@ Pandas: Utilizada para manipulación y limpieza de datos. Se encargó de la carg
 
 Matplotlib: Utilizada para la visualización de datos, permitiendo gráficos de distribución y relaciones entre variables.
 
+![image](https://github.com/user-attachments/assets/0b561836-a6d2-4536-8276-2e4cd9ad5a11)
 NumPy: Utilizada para operaciones matemáticas y manejo de matrices numéricas en conjunto con Pandas.
 
 Jupyter Notebooks: El entorno donde se realizó el análisis de datos de manera interactiva.
