@@ -2,13 +2,10 @@ El análisis se enfoca en un conjunto de datos de compras de una plataforma de c
 
 **Herramientas Utilizadas:**
 
-Pandas: Utilizada para manipulación y limpieza de datos. Se encargó de la carga de los distintos conjuntos de datos y la unión entre ellos para facilitar el análisis.
-
-Matplotlib: Utilizada para la visualización de datos, permitiendo gráficos de distribución y relaciones entre variables.
-
-NumPy: Utilizada para operaciones matemáticas y manejo de matrices numéricas en conjunto con Pandas.
-
-Jupyter Notebooks: El entorno donde se realizó el análisis de datos de manera interactiva.
+* Pandas}
+* Matplotlib
+* NumPy
+* Jupyter Notebooks
 
 **Conclusión:**
 
